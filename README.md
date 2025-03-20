@@ -14,6 +14,15 @@ Welcome to my GitHub profile! I love turning raw data into actionable insights, 
 
 ---
 
+## 🎯 Goals for 2025
+
+- 🚀 Mastering **Advanced SQL techniques** for large-scale data handling  
+- 📊 Creating **interactive dashboards** that drive business decisions  
+- 🤖 Building **ML models** for predictive analytics and real-world applications  
+- 🎤 Engaging in **public speaking & data storytelling** to share insights
+
+---
+
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
 ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=mysql)  
@@ -25,6 +34,7 @@ Welcome to my GitHub profile! I love turning raw data into actionable insights, 
 
 ### 📬 Let's Connect!
 💼 **LinkedIn:** www.linkedin.com/in/dr-sakshi-jaiswal 
+
 📧 **Email:** sakshi22jaiswal@gmail.com  
 
 Feel free to explore my repositories and collaborate on exciting projects! 🚀
