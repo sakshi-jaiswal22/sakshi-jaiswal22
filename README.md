@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I love turning raw data into actionable insights, 
 ---
 
 ### 📬 Let's Connect!
-💼 [LinkedIn](www.linkedin.com/in/dr-sakshi-jaiswal)  
+💼 **LinkedIn:** www.linkedin.com/in/dr-sakshi-jaiswal 
 📧 **Email:** sakshi22jaiswal@gmail.com  
 
 Feel free to explore my repositories and collaborate on exciting projects! 🚀
