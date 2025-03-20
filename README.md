@@ -25,11 +25,11 @@ Welcome to my GitHub profile! I love turning raw data into actionable insights, 
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi-jaiswal22&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-jaiswal22&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshi-jaiswal22&theme=radical)
 
 ---
 
