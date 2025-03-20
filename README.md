@@ -23,6 +23,17 @@ Welcome to my GitHub profile! I love turning raw data into actionable insights, 
 
 ---
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+
+---
+
+
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
 ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=mysql)  
