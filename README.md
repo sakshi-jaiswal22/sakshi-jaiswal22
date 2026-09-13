@@ -29,14 +29,6 @@ I turn messy, high-volume data into dashboards and decisions, currently working 
 
 ---
 
-### GitHub Stats
-
-![Sakshi's GitHub Stats](github-readme-stats-16s7ugipc-sakshi-e11a.vercel.app)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-jaiswal22&layout=compact&theme=default)
-
----
-
 ### Let's Connect
 💼 [LinkedIn](https://www.linkedin.com/in/sakshi-jaiswal-data)
 📧 sakshi22jaiswal@gmail.com
