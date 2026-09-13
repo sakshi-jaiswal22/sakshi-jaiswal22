@@ -1,51 +1,42 @@
-### Hi there! 👋 I'm Sakshi Jaiswal
-#### 🚀 Data Enthusiast | 📊 Aspiring Data Analyst | 💡 Problem Solver
+### Hi, I'm Sakshi Jaiswal 👋
+#### Data Analyst
 
-Welcome to my GitHub profile! I love turning raw data into actionable insights, building analytical solutions, and solving real-world problems with data-driven decision-making.
-
----
-
-### 🌟 About Me
-- 🎓 Currently learning **Data Analytics & Machine Learning**
-- 📈 Passionate about **Data Visualization, SQL, and Predictive Analytics**
-- 🛠️ Skilled in **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI, and Excel**
-- 🎯 Exploring **Big Data, AI, and Business Intelligence**
-- 💡 Love working on **real-world projects and case studies**
+I turn messy, high-volume data into dashboards and decisions — currently working across enterprise analytics, SQL, and applied LLM/Agentic AI for reporting automation.
 
 ---
 
-## 🎯 Goals for 2025
-
-- 🚀 Mastering **Advanced SQL techniques** for large-scale data handling  
-- 📊 Creating **interactive dashboards** that drive business decisions  
-- 🤖 Building **ML models** for predictive analytics and real-world applications  
-- 🎤 Engaging in **public speaking & data storytelling** to share insights
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi-jaiswal22&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-jaiswal22&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshi-jaiswal22&theme=radical)
+### What I do
+- 📊 Build and own end-to-end analytics dashboards (Metabase, Power BI, Tableau) for enterprise clients across BFSI, Retail, D2C, and EdTech
+- 🗄️ Write complex SQL (CTEs, window functions, multi-table joins) on Trino and StarRocks to process high-volume, multi-source data
+- 🤖 Apply LLM prompt engineering and Agentic AI to automate reporting and call-analytics workflows
+- 🐍 Use Python (Pandas) for data cleaning, EDA, and pipeline automation
+- 🎓 Background in clinical data analysis (Doctor of Pharmacy, Gold Medalist), which shaped how I think about data quality and audit-readiness
 
 ---
 
-
-### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
-![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=mysql)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=powerbi)  
-![Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=microsoft-excel)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-red?style=flat&logo=scikit-learn)  
+### Featured Projects
+- **[Caste-Based Hate Crime Analysis](https://github.com/sakshi-jaiswal22/caste-based-crime-analysis)** — Streamlit app analyzing 10+ years of crime data across Indian states; found a statistically significant inverse correlation between literacy rate and crime incidence
+- **[Fast Food Stocks Performance Analysis](https://github.com/sakshi-jaiswal22/fast-food-stocks-analysis)** — MySQL + Power BI pipeline analyzing 5-year stock performance using RSI, Bollinger Bands, and log returns
+- **[Bank Term Deposit Prediction](https://github.com/sakshi-jaiswal22/bank-deposit-prediction)** — Binary classification model (Logistic Regression, Random Forest, XGBoost) with class-imbalance handling, benchmarked on ROC-AUC
 
 ---
 
-### 📬 Let's Connect!
-💼 **LinkedIn:** www.linkedin.com/in/dr-sakshi-jaiswal 
+### Tools & Technologies
+**Languages & Query:** Python · SQL (Trino, StarRocks, MySQL)
+**Visualization & BI:** Power BI · Tableau · Metabase · Streamlit · Plotly · Seaborn
+**AI/ML:** Prompt Engineering · Agentic AI · Scikit-learn · XGBoost
+**Other:** Git · API Integration · Statistical Analysis · EDA
 
-📧 **Email:** sakshi22jaiswal@gmail.com  
+---
 
-Feel free to explore my repositories and collaborate on exciting projects! 🚀
+### GitHub Stats
+
+![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi-jaiswal22&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-jaiswal22&layout=compact&theme=default)
+
+---
+
+### Let's Connect
+💼 [LinkedIn](https://www.linkedin.com/in/sakshi-jaiswal-data)
+📧 sakshi22jaiswal@gmail.com
