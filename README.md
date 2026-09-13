@@ -1,16 +1,16 @@
 ### Hi, I'm Sakshi Jaiswal 👋
 #### Data Analyst
 
-I turn messy, high-volume data into dashboards and decisions — currently working across enterprise analytics, SQL, and applied LLM/Agentic AI for reporting automation.
+I turn messy, high-volume data into dashboards and decisions, currently working across enterprise analytics, SQL, and applied LLM/Agentic AI for reporting automation.
 
 ---
 
 ### What I do
-- 📊 Build and own end-to-end analytics dashboards (Metabase, Power BI, Tableau) for enterprise clients across BFSI, Retail, D2C, and EdTech
-- 🗄️ Write complex SQL (CTEs, window functions, multi-table joins) on Trino and StarRocks to process high-volume, multi-source data
-- 🤖 Apply LLM prompt engineering and Agentic AI to automate reporting and call-analytics workflows
-- 🐍 Use Python (Pandas) for data cleaning, EDA, and pipeline automation
-- 🎓 Background in clinical data analysis (Doctor of Pharmacy, Gold Medalist), which shaped how I think about data quality and audit-readiness
+- Build and own end-to-end analytics dashboards (Metabase, Power BI, Tableau) for enterprise clients across BFSI, Retail, D2C, and EdTech
+- Write complex SQL (CTEs, window functions, multi-table joins) on Trino and StarRocks to process high-volume, multi-source data
+- Apply LLM prompt engineering and Agentic AI to automate reporting and call-analytics workflows
+- Use Python (Pandas) for data cleaning, EDA, and pipeline automation
+- Background in clinical data analysis (Doctor of Pharmacy, Gold Medalist), which shaped how I think about data quality and audit-readiness
 
 ---
 
@@ -31,7 +31,7 @@ I turn messy, high-volume data into dashboards and decisions — currently worki
 
 ### GitHub Stats
 
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi-jaiswal22&show_icons=true&theme=default)
+![Sakshi's GitHub Stats](github-readme-stats-16s7ugipc-sakshi-e11a.vercel.app)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-jaiswal22&layout=compact&theme=default)
 
